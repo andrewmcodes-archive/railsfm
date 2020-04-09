@@ -1,15 +1,12 @@
 social_icons:
-  - title: Facebook
-    icon: fa-facebook
-    url: '#'
   - title: Twitter
     icon: fa-twitter
-    url: '#'
-  - title: Instagram
-    icon: fa-instagram
-    url: '#'
-copyright: '&copy; Untitled.'
+    url: https://twitter.com/andrewmcodes
+  - title: GitHub
+    icon: fa-github
+    url: https://github.com/andrewmcodes
+copyright: "&copy; 2020 Andrew Mason"
 links:
   - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
+    url: https://www.stackbit.com
     new_window: true
