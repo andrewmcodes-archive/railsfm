@@ -1,71 +1,22 @@
 ---
 title: Home
 sections:
-  - type: icons
-    title: |-
-      Sed ipsum magna lorem tempus amet
-      vehicula et gravida elementum
-    section_id: one
-    component: Icons
-    background_style: style2
-    icons:
-      - title: Shoot
-        icon: fa-camera-retro
-      - title: Process
-        icon: fa-refresh
-      - title: Upload
-        icon: fa-cloud
   - type: spotlights
-    title: Spotlights Section
+    title: Podcasts
     section_id: two
     component: Spotlights
     spotlights:
-      - title: Magna sed ultrices
-        text: >-
-          Morbi mattis ornare ornare. Duis quam turpis, gravida at leo elementum
-          elit fusce accumsan dui libero, quis vehicula lectus ultricies eu. In
-          convallis amet leo non sapien iaculis efficitur consequat lorem ipsum.
-        image: images/pic01.jpg
-      - title: Ultrices nullam aliquam
-        text: >-
-          Morbi mattis ornare ornare. Duis quam turpis, gravida at leo elementum
-          elit fusce accumsan dui libero, quis vehicula lectus ultricies eu. In
-          convallis amet leo non sapien iaculis efficitur consequat lorem ipsum.
-        image: images/pic02.jpg
-      - title: Aliquam sed magna
-        text: >-
-          Morbi mattis ornare ornare. Duis quam turpis, gravida at leo elementum
-          elit fusce accumsan dui libero, quis vehicula lectus ultricies eu. In
-          convallis amet leo non sapien iaculis efficitur consequat lorem ipsum.
-        image: images/pic03.jpg
-    icons:
-      - title: Ipsum lorem accumsan
-        icon: fa-camera-retro
-      - title: Sed vehicula elementum
-        icon: fa-refresh
-      - title: Elit fusce consequat
-        icon: fa-cloud
-      - title: Lorem nullam tempus
-        icon: fa-code
-      - title: Adipiscing amet sapien
-        icon: fa-desktop
-  - type: cta
-    title: Magna leo sapien gravida
-    section_id: three
-    component: Cta
-    subtitle: |-
-      Gravida at leo elementum elit fusce accumsan dui libero, quis vehicula  
-      lectus ultricies eu. In convallis amet leo sapien iaculis efficitur.
-    background_style: style2
-    actions:
-      - label: Download
-        icon: fa-download
-        url: '#'
-        is_primary: true
-        is_scrolly: false
-      - label: Learn More
-        url: /elements
-        is_primary: false
-        is_scrolly: false
+      - title: The Ruby Blend
+        text: The Ruby Blend is a new Ruby focused podcast bringing you panel
+          discussions, guest interviews, and much more to keep you up to date on
+          what’s happening in the Ruby development community mixed with
+          sprinkles from other developer communities.
+        image: /images/v6-the-ruby-blend-300x300.png
+      - title: Remote Ruby
+        text: Born out of a failed online Ruby meetup, Remote Ruby is a podcast by three
+          Rubyists who enjoy talking about web development and the Ruby
+          programming language.
+        image: /images/remote-ruby-cover-art-300x300px-lb-300x300.png
+    icons: []
 template: home
 ---
